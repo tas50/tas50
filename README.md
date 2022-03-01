@@ -1,6 +1,6 @@
 
 - 🔭 I’m currently working on all things Chef Infra
-- 🌱 I’m currently learning to build a GitHub application
+- 🌱 I’m currently expanding my knowledge of product management
 - 👯 I’m looking to collaborate on expanding OSS software
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I once worked in Antarctica
