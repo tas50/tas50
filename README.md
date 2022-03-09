@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on all things Chef Infra
+- 🔭 I’m currently working on all things Infra security
 - 🌱 I’m currently expanding my knowledge of product management
 - 👯 I’m looking to collaborate on expanding OSS software
 - 😄 Pronouns: he/him
